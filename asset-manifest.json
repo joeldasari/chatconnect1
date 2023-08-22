@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/chatconnect1/static/css/main.de60490b.css",
+    "main.js": "/chatconnect1/static/js/main.bc1948cb.js",
+    "static/media/signin.png": "/chatconnect1/static/media/signin.9900628166b5ce867e32.png",
+    "index.html": "/chatconnect1/index.html",
+    "main.de60490b.css.map": "/chatconnect1/static/css/main.de60490b.css.map",
+    "main.bc1948cb.js.map": "/chatconnect1/static/js/main.bc1948cb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.de60490b.css",
+    "static/js/main.bc1948cb.js"
+  ]
+}
